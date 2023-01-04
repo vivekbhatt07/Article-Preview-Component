@@ -51,7 +51,7 @@ button {
   height: 40px;
   border-radius: 50%;
   color: hsl(217, 19%, 35%);
-  background-color: hsl(212, 23%, 69%);
+  background-color: #ccc;
   transition: transform 0.2s;
 }
 
